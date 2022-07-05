@@ -1,2 +1,1 @@
-# Pharmacy-Project
-# cppProject
+# PharmacyManagementSystem
