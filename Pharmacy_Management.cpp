@@ -37,8 +37,8 @@ struct node // constract node
 	string type = {"OTC"};
 	int x, menu2[10];
 	double amount[10];
-	string medicineName[10] = {"Probiotics", "Vitamin C(500mg)", "Acid Free C(500mg)", "Women'S Multivate", "Marino Tablet", "Maxi Cal Tablet",
-							   "Amino Zinc Tablet", "Burnex", "Fabuloss 5", "Royal Propollen"};
+	string medicineName[10] = {"Xanax(500mg)", "Vitamin C(500mg)", "Acid Free C(500mg)", "Women'S Multivate", "Marino Tablet", "Maxi Cal Tablet",
+							   "Amino Zinc Tablet", "Viagra", "Depon Maximum", "Royal Propollen"};
 	double Medicine[10] = {2.00, 3.00, 1.00, 4.00, 1.00, 5.00, 7.00, 4.00, 3.00, 5.00};
 	double total;
 
